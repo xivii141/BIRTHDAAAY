@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Lane with Yamouna</title>
+    <style>
+        body {
+            background-color: #fce1d9;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #e87b7b;
+            font-size: 3em;
+        }
+        .photos img {
+            width: 80%;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Memory Lane with Yamouna</h1>
+    <div class="photos">
+        <img src="photo1.jpg" alt="A special moment together">
+        <img src="photo2.jpg" alt="Another beautiful moment">
+        <!-- Add more photos as you like -->
+    </div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goodbye, Yamouna</title>
+    <style>
+        body {
+            background-color: #fffae6;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff7f7f;
+            font-size: 3em;
+        }
+        p {
+            color: #333;
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Goodbye, My Friend</h1>
+    <p>May Allah keep our friendship forever in Jannah. I'm so lucky to have you in my life. Farewell for now, Yamouna, until we meet again!</p>
+</body>
+</html>

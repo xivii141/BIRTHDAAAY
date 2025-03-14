@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Quiz</title>
+    <style>
+        body {
+            background-color: #f8f4f8;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff6b81;
+            font-size: 3em;
+        }
+        .question {
+            font-size: 1.5em;
+            color: #333;
+        }
+        .options {
+            margin-top: 20px;
+        }
+        .options button {
+            background-color: #ff6b81;
+            border: none;
+            padding: 10px;
+            font-size: 1.2em;
+            color: white;
+            cursor: pointer;
+            margin: 10px;
+            border-radius: 5px;
+        }
+        .options button.correct {
+            background-color: #28a745;
+        }
+        .options button.incorrect {
+            background-color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <h1>Let's Play a Fun Quiz!</h1>
+    <div class="question">Who is the person who stole your heart?</div>
+    <div class="options">
+        <button onclick="checkAnswer(this, 'incorrect')">Yamouna</button>
+        <button onclick="checkAnswer(this, 'correct')">Yomna</button>
+        <button onclick="checkAnswer(this, 'incorrect')">Yayo</button>
+    </div>
+
+    <script>
+        function checkAnswer(button, type) {
+            if (type === 'correct') {
+                button.classList.add('correct');
+                alert("Correct answer! 🎉");
+            } else {
+                button.classList.add('incorrect');
+            }
+        }
+    </script>
+</body>
+</html>

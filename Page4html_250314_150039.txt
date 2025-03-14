@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Special Message for Yamouna</title>
+    <style>
+        body {
+            background-color: #e2f4f1;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #fc7f89;
+            font-size: 3em;
+        }
+        p {
+            color: #2a2a2a;
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>A Special Message for Yamouna</h1>
+    <p>From the moment you entered my life, everything changed for the better. I cherish every moment, every laugh, and every conversation we've had. You are a true blessing, and I am so grateful to have you by my side.</p>
+</body>
+</html>

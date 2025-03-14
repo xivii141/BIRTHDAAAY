@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apology and Love Message</title>
+    <style>
+        body {
+            background-color: #f0e2e2;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff6b81;
+            font-size: 3em;
+        }
+        p {
+            color: #333;
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Samhni Yamouna!</h1>
+    <p>Samhni Yamouna for every time tsrft feha bl khyb wela t8chcht mnk t3rfni f msl7tk w enti rask kas7 w zeda smhni 3la ay haja 3mltha w m3jbtkch base mnhbch n8chchk ama enti mthbch tsm3 lklem sa3at w ane chkoun 3ndi blhi kan enti mal t3rf.</p>
+    <p> you are kind, beautiful, and a lovely person. Good bye, and may Allah take our friendship to Jannah.</p>
+</body>
+</html>

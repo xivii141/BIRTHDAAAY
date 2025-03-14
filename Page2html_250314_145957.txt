@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Für Dich, Yamouna!</title>
+    <style>
+        body {
+            background-color: #ffe6e6;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #f15f79;
+            font-size: 3em;
+        }
+        p {
+            color: #444;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Für Dich, Yamouna!</h1>
+    <p>Du bist so ein besonderer Mensch in meinem Leben. Ich schätze alles, was du tust und wie du mich immer unterstützt. Danke, dass du immer an meiner Seite bist.</p>
+</body>
+</html>

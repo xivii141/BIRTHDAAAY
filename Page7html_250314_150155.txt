@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harry Potter Magic!</title>
+    <style>
+        body {
+            background-color: #9b3d44;
+            color: white;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 3em;
+            color: #f1c40f;
+        }
+        .wand {
+            font-size: 2em;
+            color: #f1c40f;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Wizarding World, Yamouna!</h1>
+    <div class="wand">✨ Wand: Expecto Patronum! ✨</div>
+</body>
+</html>
